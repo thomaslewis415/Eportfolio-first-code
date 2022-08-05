@@ -530,6 +530,9 @@ footer{
         text-align: center;
         margin: 12px 0;
     }
+    .language__img--wrapper{
+        margin-bottom: 80px;
+    }
 
 
 }
