@@ -499,7 +499,7 @@ footer{
 
 /* SMALL PHONES */
 
-@media (max-width: 768px) {
+@media (max-width: 428px) {
     .nav__link:not(:last-child) {
         display: none;
 
